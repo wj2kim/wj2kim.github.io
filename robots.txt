@@ -1,0 +1,7 @@
+# wj2kim.github.io - robots.txt
+
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://wj2kim.github.io/trend-reporter/sitemap.xml
